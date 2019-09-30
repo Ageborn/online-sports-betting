@@ -1,10 +1,10 @@
 <?php
-$config['baseurl'] = 'http://YOUR-DOMAIN.COM';
+$config['baseurl'] = 'http://https://joybet.herokuapp.com/';
 $config['basedir'] = '/path/to/public/html';
 
 $config['private_key'] = 'your-private-key';
 $config['public_key'] = rand(10000, 50000);
-$config['noreply_email'] = 'noreply@sportsbet.com';
+$config['noreply_email'] = 'noreply@joybet.eu';
 
 // connect to database
 $DBhost="localhost";
